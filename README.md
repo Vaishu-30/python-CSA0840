@@ -16,3 +16,4 @@ programs
 1.climb
 2.leap
 3.found wrd
+4.major
