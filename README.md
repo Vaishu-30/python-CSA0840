@@ -25,4 +25,13 @@ programs
 10.sentence str
 third day-->
 programs
-1.
+1.price
+2.binary
+3.
+4.binary add
+5.
+6.mirror img
+7.permutations
+8.
+9.D3-9
+10.w1 to w2
