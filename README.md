@@ -27,11 +27,11 @@ third day-->
 programs
 1.price
 2.binary
-3.
+3.good pair
 4.binary add
-5.
+5.maxnum
 6.mirror img
 7.permutations
-8.
+8.anagram
 9.D3-9
 10.w1 to w2
