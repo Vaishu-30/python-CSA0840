@@ -35,3 +35,15 @@ programs
 8.anagram
 9.D3-9
 10.w1 to w2
+fourth day-->
+program
+1.indexed
+2.
+3.smaller than curt num
+4.palindrome
+5.maxnum
+6.delete
+7.AEIOU
+8.roman
+9.months
+10.
