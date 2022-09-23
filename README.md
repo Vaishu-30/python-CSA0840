@@ -49,6 +49,6 @@ program
 10.scramble
 fifth day-->
 programs
-1.
-2.
+1.lenght lastword
+2.newyear
 3.least numof perfectsquare
