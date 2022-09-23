@@ -17,7 +17,7 @@ programs
 2.leap
 3.found wrd
 4.major
-5.
+5.basic clc
 6.digits
 7.paranthesis
 8.string pattern
@@ -38,7 +38,7 @@ programs
 fourth day-->
 program
 1.indexed
-2.
+2.userofclg
 3.smaller than curt num
 4.palindrome
 5.maxnum
@@ -46,4 +46,9 @@ program
 7.AEIOU
 8.roman
 9.months
-10.
+10.scramble
+fifth day-->
+programs
+1.
+2.
+3.
