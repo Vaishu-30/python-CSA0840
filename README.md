@@ -53,3 +53,9 @@ programs
 2.newyear
 3.least numof perfectsquare
 4.yeah nah
+5.any of the peaks
+6.nth rows
+7.repeating charecters
+8.chessboard
+9.shuffle
+10.reverse word in a string
